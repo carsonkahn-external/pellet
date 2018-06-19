@@ -1,7 +1,8 @@
 Pellet: An Open Source OWL DL reasoner for Java
 -----------------------------------------------
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/complexible/pellet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/complexible/pellet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2Fpellet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2Fpellet?ref=badge_shield)
+
 
 Pellet is the OWL 2 DL reasoner: 
  
@@ -26,3 +27,7 @@ There is a [pellet-users mailing list](https://groups.google.com/forum/?fromgrou
 Bug reports and enhancement requests should be sent to the mailing list. Issues are on [Github](http://github.com/complexible/pellet/issues).
 
 Thanks for using Pellet.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2Fpellet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2Fpellet?ref=badge_large)
